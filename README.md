@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mangentemoncarlo/rwd-card-component)
-- Live Site URL: [Add live site URL here](https://responsive-product-card-component.vercel.app/)
+- Solution URL: [Github](https://github.com/mangentemoncarlo/rwd-card-component)
+- Live Site URL: [Vercel](https://responsive-product-card-component.vercel.app/)
 
 ## My process
 
